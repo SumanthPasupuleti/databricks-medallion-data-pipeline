@@ -2,7 +2,7 @@ This project implements an end-to-end data engineering pipeline to integrate dat
 from two companies (Raw Fitness and Cbum Fitness) into a unified analytics platform 
 using Databricks and Medallion Architecture (Bronze, Silver, Gold).
 
-architecture/project_architecture.png
+![Architecture](architecture/project_architecture.png)
 Source Systems → AWS S3 → Bronze → Silver → Gold → BI / AI
 
   Data Ingestion
