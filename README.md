@@ -3,7 +3,6 @@ from two companies (Raw Fitness and Cbum Fitness) into a unified analytics platf
 using Databricks and Medallion Architecture (Bronze, Silver, Gold).
 
 ![Architecture](project_architecture.png)
-
 Source Systems → AWS S3 → Bronze → Silver → Gold → BI / AI
 
   Data Ingestion
